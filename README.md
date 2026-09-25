@@ -16,7 +16,6 @@ Electronics & Communication Engineering graduate passionate about **Embedded Sys
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32/ESP8266](https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rachanaa5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rachanaa5&theme=dark&hide_border=false)<br/>
