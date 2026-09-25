@@ -1,10 +1,10 @@
 # 💫 About Me:
 Electronics & Communication Engineering graduate passionate about **Embedded Systems, Firmware Development, and Hardware-Software Interfacing**.
 
-- 🔭 Currently working on firmware examples and technical documentation for **STM32/ESP32** at **Fastbit Embedded Technologies**[cite: 2].
-- 🛠️ Experienced in microcontroller programming, real-time sensor acquisition, and protocols (**UART, SPI, I2C**)[cite: 2].
-- 🤖 Built IoT, wearable monitoring systems, and agentic AI/backend workflows with **Python & FastAPI**[cite: 2].
-- 🎯 Seeking entry-level opportunities in **Embedded Systems, Firmware, or IoT Engineering**[cite: 2].
+- 🔭 Currently working on firmware examples and technical documentation for **STM32/ESP32** at **Fastbit Embedded Technologies**.
+- 🛠️ Experienced in microcontroller programming, real-time sensor acquisition, and protocols (**UART, SPI, I2C**).
+- 🤖 Built IoT, wearable monitoring systems, and agentic AI/backend workflows with **Python & FastAPI**.
+- 🎯 Seeking entry-level opportunities in **Embedded Systems, Firmware, or IoT Engineering**.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,6 @@ Electronics & Communication Engineering graduate passionate about **Embedded Sys
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=microchip&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32/ESP8266](https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
